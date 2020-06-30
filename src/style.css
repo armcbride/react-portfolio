@@ -1,0 +1,44 @@
+.card{
+    align-self: center;
+    width: 10rem;
+    height: 10rem;
+    color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.img-container {
+    width: 100%;
+    text-align: center;
+}
+
+.card-body{
+
+    font-size: 12px;
+    text-align:center;
+}
+
+.card-text {
+    font-size: 10px;
+}
+
+.footer{
+    text-align: center;
+    background-color: forestgreen;
+    font-family:'Piedra', cursive;
+    font-size: x-small;
+}
+
+nav, .navbar{
+    margin-bottom: 0;
+    font-family: "Piedra", cursive;
+    color: forestgreen;
+    
+    justify-content: left;
+}
+
+.nav-item{
+    float:left;
+    text-align: left;
+    
+}
