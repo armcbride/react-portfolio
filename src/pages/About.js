@@ -5,12 +5,8 @@ import "../style.css";
 function About (){
     return (
         <>
-       
-        
         <AboutMe/>
         <Skills/>
-        {/* <Contact/> */}
-        
         </>
     )
 }

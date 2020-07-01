@@ -6,7 +6,7 @@ import "../../style.css";
 function Card(props) {
     console.log(props);
     return (
-        <div className= " container-fluid d-inline-flex mb-3 h-25 d-inline-block card">
+        <div className= "container-fluid d-inline-flex mb-3 h-25 d-inline-block card">
             <div className="img-container">
         <img src= {props.image} className="card-img-top" alt={props.title}/>
         </div>

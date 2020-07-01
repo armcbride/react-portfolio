@@ -3,10 +3,11 @@ import '../style.css';
 
 export default function AboutMe() {
     return (
-        
-            <div className="d-flex align-self-center about-section text-center" id="about">
+        <>
+        <div className="row-space"> </div>
+            <div className="d-flex justify-content-center about-section" id="about">
             <div className="container text-wrap">
-                <div className="row d-inline-flex mb-30 h-25 d-inline-block ">
+                <div className="d-flex justify-content-center">
                     <div className="text-wrap">
                         <img className="img-fluid portrait" src={require("../assets/me-resize.jpg")} alt="portfolio" id="port-pic"/>
                         <p className="aboutMe">I am a MERN Full Stack developer, from Nashville Tennessee. 2018 Graduate of Middle Tennessee State University, with a Bachelors of Science.</p> 
@@ -21,6 +22,7 @@ export default function AboutMe() {
             </div>
        
 </div>
+</>
     )
 }
 
