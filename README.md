@@ -1,68 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  <h1 align= "center">Portfolio</h1> 
+  <h2>Table of Contents<h2>
+  <ul>
+  <li><a href="#descrip">Description</a></li>   
+  <li><a href="#tech">Technology</a></li> 
+  <li><a href="#use">Usage</a></li> 
+  <li><a href="#license">License</a></li>
+  <li><a href="#screen">Screenshots</a></li> 
+  <li><a href="#quest">Questions</a></li>  
+  </ul>
+    <hr>
+  <div id="descrip"><h2>Description</h2> </div>
+  My Reactjs Portfolio
+  <hr>
+  <div id="tech"><h2>Technology</h2></div>           
+  <p> HTML, CSS, Bootstrap, Node.Js, JavaScript, jQuery, React.js, React</p>
+  <hr>
+  <div id="use"><h2>Usage</h2></div>
+  <p>My professional React app portfolio, mobile responsive</p>  
+  <hr>
+  <div id="license"><h2>License</h2></div>
+  <p><img align="left" src= "https://img.shields.io/badge/License-MIT-blue"></p><br>
+  <hr>
+  <div id="screen"><h2>Screenshots</h2></div>
+  <p><img src= "./src/assets/react-portfolio.PNG"><img src= "./src/assets/react-portfolio-projects.PNG"><img src= ""></p>
+  <hr>
+  <div id="quest"><h2>Questions?</h2> </div>
+  <img align="right" width="100" height="100" src="https://avatars3.githubusercontent.com/u/58277359?v=4">         
+    Contact: Annaruth McBride       
+  <ul>
+  <li>Github: <a href= "https://github.com/armcbride">https://github.com/armcbride</a></li>
+  <li>Portfolio: <a href= "armcbride.github.io/react-portfolio">armcbride.github.io/react-portfolio</a></li>
+  <li>Email: <a href= "mailto:armcbride17@gmail.com">armcbride17@gmail.com</a> </li>     
+  <li>LinkedIn: <a href= "https://www.linkedin.com/in/annaruthmcbride">https://www.linkedin.com/in/annaruthmcbride</a></li>
+  </ul> 
+  <hr>
