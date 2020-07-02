@@ -5,7 +5,7 @@ export default function Skills() {
         return (
            <>
                 <div className="skills d-flex align-items-center text-center">
-                    <span class="border-bottom-0">
+                    <span className="border-bottom-0">
                                
                      <div className="skill-container d-inline-flex d-inline-block">
                                 ||

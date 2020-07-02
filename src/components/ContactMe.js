@@ -5,7 +5,7 @@ export default function Contact() {
         <>
              
              <div className="contacts d-flex align-items-center text-center">
-                    <span class="border-bottom-0">
+                    <span className="border-bottom-0">
                                
                      <div className="d-inline-flex d-inline-block">
                     

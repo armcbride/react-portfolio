@@ -135,5 +135,27 @@ nav, .navbar{
 }
 
 @media screen and (max-width: 989px) {
+.card-container{
+    flex-wrap: wrap;
+    margin-left:0px;
+}
+
+.skills
+{
+    flex-wrap: wrap;
+    text-align: left;
+    justify-content: start;
+}
+
+.skill-container {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.text-wrap, .portrait{
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 20px;
+}
 
 }
