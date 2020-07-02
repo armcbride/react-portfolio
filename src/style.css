@@ -6,8 +6,8 @@
 }
 .card {
     align-self: center;
-    width:15rem;
-    height:18rem;
+    width: 15rem;
+    height: 18rem;
     margin: 20px;
     padding: 0px;
     box-shadow: 8px 8px 8px black;
@@ -17,7 +17,7 @@
     font-size: 14px;
     text-align:center;
     color: black;
-    text-shadow: 8px 8px 8px black;
+    
 }
 
 .card-text {
@@ -27,7 +27,6 @@
 
 .card-img-top{
     width: 100%;
-    
 }
 
 .btn {
@@ -36,7 +35,7 @@
 }
 /* About */
 .skills{
-    font-size: x-small;
+    font-size: 16px;
     text-align: center;
     justify-content: center;
     margin:10px;
@@ -64,8 +63,8 @@ box-shadow: 8px 8px 8px black;
 
 
 .icon{
-    height: 50px;
-    width: 50px;
+    height: 75px;
+    width: 75px;
     margin: 5px;
 }
 
@@ -80,31 +79,40 @@ box-shadow: 8px 8px 8px black;
 
 /* Contact */
 
+.contacts{
+
+        font-size: 16px;
+        text-align: center;
+        justify-content: center;
+        margin:10px;
+        padding: 10px;   
+
+}
+
 .contact-container{
+    width: 100%;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
     color: black;
     font-weight: 500;
     text-align: left;
-    justify-content: center;
+    font-size: 16px;
 }
 
 .contact-title{
     font-family:'Piedra', cursive;
     text-align: center;
-    text-shadow: 8px 8px 8px black; 
+    
 }
 
-.contact-img {
-    height: 50px;
-    width: 50px;
-    margin: 5px;
-}
 /* Global */
 
 .footer, footer{
     text-align: center;
     background-color: #b2beb5;
     font-family:'Piedra', cursive;
-    font-size: x-small;
+    font-size: 10px;
 }
 
 nav, .navbar{
@@ -118,10 +126,14 @@ nav, .navbar{
     float:left;
     text-align: left;
     color: black;
-    text-shadow: 8px 8px 8px black;
+    text-shadow: 10px 8px 4px grey;
     background-color:#b2beb5;
 }
 .wrapper,
 * {
     background-color:#b2beb5;
+}
+
+@media screen and (max-width: 989px) {
+
 }

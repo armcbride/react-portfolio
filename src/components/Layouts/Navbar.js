@@ -6,9 +6,9 @@ import '../../style.css';
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">
-    <Link className="navbar-brand nav-item" to="/about">Annaruth McBride</Link>
+    <Link className="navbar-brand nav-item" to="/">Annaruth McBride</Link>
       <Link className="navbar-brand nav-item" to="/projects"> Projects </Link>
-      <Link className="navbar-brand nav-item" to="/contact"> Contact </Link>
+  
 
     </nav>
   );
